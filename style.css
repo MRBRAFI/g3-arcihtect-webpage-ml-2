@@ -193,7 +193,7 @@
 }
    /* media queries */
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 676px) {
      .navbar{
       flex-direction: column;
      }
@@ -220,7 +220,7 @@
      }
 }
 
-@media screen and (min-width: 576px) and (max-width: 992px) {
+@media screen and (min-width: 676px) and (max-width: 992px) {
     .teams-container {
     flex-direction: column;
     }
